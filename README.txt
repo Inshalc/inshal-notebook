@@ -1,38 +1,32 @@
+# BasicChatApp
 
-#  NoteNest
+A full-stack chat application with user authentication, conversations, and real-time messaging built using Next.js, React, and Node.js.
 
-**NoteNest** is a simple, lightweight note-taking desktop application built using **Python's Tkinter GUI library**. It allows users to create, save, and edit text notes in a clean and intuitive interface.
+## 🌟 Features
 
-## 🚀 Features
+- User Authentication (Register, Login, Logout)
+- Real-Time Chat with Conversations
+- Dashboard to View and Select Chats
+- Modular and Scalable File Structure
+- Responsive UI
 
-- ✅ Create and edit plain text notes  
-- 💾 Save notes to your computer  
-- 📂 Open existing notes from files  
-- 🧹 Start a new note from scratch  
-- 🪟 User-friendly GUI with a scrollable text editor  
-- 🐍 Built with standard Python libraries (no installation of extra packages required)
+## 🚀 Getting Started
 
+### Prerequisites
 
-## 📁 How to Run
+- Node.js (v18 or higher recommended)
+- npm or yarn
 
-### Requirements
+### Installation
 
-- Python 3.x (Tested on Python 3.10+)
-- No additional libraries needed (uses built-in `tkinter` and `tkinter.scrolledtext`)
+```bash
+# Clone the repo
+git clone https://github.com/Inshalc/ChatApp.git
+cd ChatApp/BasicChatApp-main
 
-### Steps
+# Install dependencies
+npm install
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Inshalc/inshal-notebook.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd inshal-notebook
-   ```
-3. Run the application:
-   ```bash
-   python notebook.py
-   ```
-
+# Run development server
+npm run dev
 
