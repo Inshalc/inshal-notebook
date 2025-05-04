@@ -1,5 +1,5 @@
 
-# 📝 NoteNest
+#  NoteNest
 
 **NoteNest** is a simple, lightweight note-taking desktop application built using **Python's Tkinter GUI library**. It allows users to create, save, and edit text notes in a clean and intuitive interface.
 
